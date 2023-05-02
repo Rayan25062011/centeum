@@ -1,0 +1,18 @@
+[project]
+name = "Rayan25062011"
+version = "0.0.1"
+authors = [
+  { name="Rayan Haddad", email="rayan.m.haddad@icloud.com" },
+]
+description = "The Centeum cryptocurrency"
+readme = "README.md"
+requires-python = ">=3.7"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: GNU Lesser General Public License v2.1",
+    "Operating System :: OS Independent",
+]
+
+[project.urls]
+"Homepage" = "https://github.com/Rayan25062011/centeum"
+"Bug Tracker" = "https://github.com/Rayan25062011/centeum/issues"
